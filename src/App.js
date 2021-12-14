@@ -1,11 +1,11 @@
 import React from 'react';
-import FriendList from './components/FriendsList/FriendList';
+import FriendList from './components/FriendsList/FriendList.jsx';
 import friends from './components/FriendsList/friends.json';
-import Profile from './components/social-profile/Profile';
+import Profile from './components/social-profile/Profile.jsx';
 import user from './components/social-profile/user.json';
-import Statistics from './components/Statistics/Statistics';
+import Statistics from './components/Statistics/Statistics.jsx';
 import statisticsData from './components/Statistics/data.json';
-import TransactionHistory from './components/transaction-history/TransactionHistory';
+import TransactionHistory from './components/transaction-history/TransactionHistory.jsx';
 import transactions from './components/transaction-history/transactions.json';
 
 
